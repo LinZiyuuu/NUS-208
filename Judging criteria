@@ -15,30 +15,31 @@ Please provide a LOAD_MODEL_INSTRUCTIONS.md file in the GitHub repository to exp
 
 
 Judging Criteria
-Datathon Comm will judge all submissions then submit top 10 to the judges
+  Datathon Comm will judge all submissions then submit top 10 to the judges
 
 Data Analysis     (60%)
-Data Cleaning
-Effectiveness of Null Value Management,  Data Consistency, Data Accuracy, Robustness.
-Feature Selection 
-Appropriateness of technique used, Rationalization, Impact on Model, Innovativeness
-Feature Engineering
-Selection of Methods, Impact on Analysis, Creativity, Scalability
-Depth of Analysis
-Level of complexity, Coverage of various the data and problem, Insightfulness, Clarity, Relevance
-Leveraging Domain Knowledge
-Effective use of domain knowledge in framing and conducting analysis, Creativity, Integration and Impact.
-Visualizations of the Data/Clustering 
-Clarity, Relevance, Clustering Techniques,  Aesthetics and Insightfulness.
-Modelling             (30%)
-Handling Highly Imbalanced Samples
-Techniques Used, Effectiveness and Impact
-Choice of Model
-Model Fit, Justification, Complexity vs Performance, Data Suitability
-Performance     (10%)
-Performance of Model 
-AIC, Adjusted R^2, Balance and Context Relevance
-Additional Considerations (non-scored, for tiebreakers)
-Insightfulness 
-The degree to which the insights derived from the analysis are interesting or novel.
+  Data Cleaning
+    Effectiveness of Null Value Management,  Data Consistency, Data Accuracy, Robustness.
+  Feature Selection 
+    Appropriateness of technique used, Rationalization, Impact on Model, Innovativeness
+  Feature Engineering
+    Selection of Methods, Impact on Analysis, Creativity, Scalability
+  Depth of Analysis
+    Level of complexity, Coverage of various the data and problem, Insightfulness, Clarity, Relevance
+  Leveraging Domain Knowledge
+    Effective use of domain knowledge in framing and conducting analysis, Creativity, Integration and Impact.
+  Visualizations of the Data/Clustering 
+    Clarity, Relevance, Clustering Techniques,  Aesthetics and Insightfulness.
 
+Modelling             (30%)
+  Handling Highly Imbalanced Samples
+    Techniques Used, Effectiveness and Impact
+  Choice of Model
+    Model Fit, Justification, Complexity vs Performance, Data Suitability
+Performance     (10%)
+  Performance of Model 
+    AIC, Adjusted R^2, Balance and Context Relevance
+
+Additional Considerations (non-scored, for tiebreakers)
+  Insightfulness 
+    The degree to which the insights derived from the analysis are interesting or novel.
